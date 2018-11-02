@@ -5,57 +5,57 @@ PARA CUARTETO DE CUERDAS CON PISTA ELECTRÓNICA.
 
 ---
 
-##INDICACIONES
+## INDICACIONES
 
 ---
 
-###VIOLINES Y VIOLONCELLO
+### VIOLINES Y VIOLONCELLO
 
 Los violines 1 y 2 deben colocarse en los dos extremos del escenario,
 con el violoncello en el centro y en el fondo del escenario. Permanecen
 sentados.
 
-###VIOLA
+### VIOLA
 
 La viola debería poder sentarse detrás de la audiencia, con
 suficiente espacio para pararse y moverse.
 
-###ALTAVOCES
+### ALTAVOCES
 
 Se deben colocar dos altavoces detrás de los violines, y el estéreo debe ser audible.
 
-###ILUMINACIÓN
+### ILUMINACIÓN
 
 La sala debe permanecer oscura todo el tiempo, excepto los cronómetros que
 iluminan a los intérpretes. Si los cronómetros no tienen luz, debe haber
 luces individuales y portátiles que apunten a cada intérprete.
 
-###DINÁMICA
+### DINÁMICA
 
 La dinámica global de la obra es **pausada** y **silenciosa**.
 
-###DURACIÓN DE LAS ***RELACIONES DE NUBE***
+### DURACIÓN DE LAS ***RELACIONES DE NUBE***
 
 Las relaciones duran entre 15 y 30 segundos.
 
-###DURACIÓN DE LA OBRA
+### DURACIÓN DE LA OBRA
 
 La pieza entera debe durar alrededor de 13 minutos.
 
-###FINAL DE LA OBRA
+### FINAL DE LA OBRA
 
 Los intérpretes (y no la pista) deben finalizar la obra.
 
-###PARTITURA
+### PARTITURA
 Los intérpretes no deben usar una partitura ni ninguna otra ayuda visual que no sea un cronómetro. Deben tratar de recordar qué hacer. Sin embargo, si se olvidan algunas cosas, solo sigan tocando.
 
 ---
 
-##INSTRUCCIONES
+## INSTRUCCIONES
 
 ---
 
-###INICIADORES
+### INICIADORES
 
 Cada intérprete debe reproducir 9 (nueve) sonidos como **INICIADORES**, que pueden o no causar las **Relaciones de nube**:
 
@@ -78,7 +78,7 @@ Cada intérprete debe reproducir 9 (nueve) sonidos como **INICIADORES**, que pue
 
 ![](example.png)
 
-###SEGUIR O NO-SEGUIR
+### SEGUIR O NO-SEGUIR
 
 Los intérpretes deben decidir si **SIGUEN** el sonido (de los otros intérpretes o de la pista) o si **NO LO SIGUEN**.
 
@@ -95,7 +95,7 @@ Si *lo siguen*, el sonido reproducido puede ser *cualquier sonido*, excepto las 
     2.  Permanecer en silencio
     3.  Iniciar otro sonido.
 
-###PARÉNTESIS 1
+### PARÉNTESIS 1
 
 Debe tocarse un *paréntesis* después de que haya pasado la mitad de la obra.
 
@@ -104,15 +104,15 @@ Debe tocarse un *paréntesis* después de que haya pasado la mitad de la obra.
     2.  Un intérprete debe *tocar la misma altura*.
     3.  Los dos intérpretes restantes deben tocar cada uno una segunda menor adyacente: **Eb** y **Db**.
 
-###ALTURAS (NO-AFINAR)
+### ALTURAS (NO-AFINAR)
 
 **Muy importante**: Una vez que se comienza a tocar una altura, se debe *mantener* **esa altura**. Nunca ajustar la sintonía ni cambiar repentinamente las alturas si la altura no es exacta o no es la deseada. *Si decide hacer glissandi, que sean los más lentos del mundo.*
 
-###PISTA ELECTRÓNICA
+### PISTA ELECTRÓNICA
 
 La pista debe sincronizarse con los cronómetros para que todo comience al mismo tiempo.
 
-###VIOLA
+### VIOLA
 
 Indicaciones especiales para la **VIOLA**:
 
@@ -127,7 +127,7 @@ Indicaciones especiales para la **VIOLA**:
         sonido de la pista.
 3.  Estas acciones pueden reemplazar cualquiera de los iniciadores, *pero no el paréntesis*.
 
-###FINAL
+### FINAL
 
 Antes de que finalice la cinta (11:00), o si ya terminó, los intérpretes deberían iniciar el **PARÉNTESIS 2**:
 
@@ -136,7 +136,7 @@ Antes de que finalice la cinta (11:00), o si ya terminó, los intérpretes deber
 
 ---
 
-##SUGERENCIA
+## SUGERENCIA
 
 Estas reglas están destinadas al mayor grado posible de incumplimiento, pero al menor grado posible de autoridad.
 
