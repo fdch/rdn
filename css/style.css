@@ -10,10 +10,15 @@
 body {
 	/*color:burlywood;*/
 	/*background-color:black;*/
-	padding:0 15%;
+	padding:1% 3%;
+	margin:0;
 	font-family:Helvetica;
 	font-size: 1.2em;
 }
+main {
+	max-width: 650px;
+}
+
 strong {
 	/*color:orange;*/
 	/*font-size:1.1em;*/
@@ -37,3 +42,39 @@ ol li:before {
 a{
 	/*color:orange;*/
 }
+div#TOC, div#TOC ul, div#TOC ul li {
+	/*margin:0;*/
+	padding:0;
+
+}
+div#TOC ul, div#TOC ul li {
+	display:inline;
+}
+div#TOC ul li a {
+	display:inline;
+	color:black;
+	font-weight:bold;
+	font-family:Helvetica;
+	font-size:60%;
+	background-color: #EEEEEE;
+	padding:0;
+	margin:0;
+	text-decoration: none;
+	border-radius:20%;
+}
+div#TOC ul li a:hover{
+	color:orange;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

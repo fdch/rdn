@@ -1,4 +1,4 @@
-### INSTRUMENTISTAS
+### PARA INSTRUMENTISTAS
 
 -	Un cronómetro para cada instrumentista (con o sin luz)
 -	Una luz (led) individual y portátil para cada instrumentista

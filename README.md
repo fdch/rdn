@@ -177,7 +177,7 @@ Los intérpretes (y no la pista) deben finalizar la obra.
 ## COSAS
 
 
-### VIOLA
+### PARA VIOLA
 
 -	3 (Tres) sillas
 -	1 (Un) vaso de agua
@@ -190,7 +190,7 @@ Los intérpretes (y no la pista) deben finalizar la obra.
 ---
 
 
-### PISTA
+### PARA LA PISTA
 
 #### Opción en tiempo real:
 
@@ -207,7 +207,7 @@ Los intérpretes (y no la pista) deben finalizar la obra.
 ---
 
 
-### INSTRUMENTISTAS
+### PARA INSTRUMENTISTAS
 
 -	Un cronómetro para cada instrumentista (con o sin luz)
 -	Una luz (led) individual y portátil para cada instrumentista

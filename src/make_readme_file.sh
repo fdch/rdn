@@ -1,64 +1,36 @@
 #!/bin/bash
+
+if [ -z $CONFIG ]; then source config.sh ; fi
+
+function make_readme_file() {
+
+	if [[ $1 ]]; then
+		local thefile=$1
+	else
+		local thefile=README.md
+	fi
+
+	if [[ $2 ]]; then
+		local thedir=$2
+	else
+		local thedir=./md
+	fi
+
+
 files=(sugerencia instrumentacion)
-echo "
+titelize "$TITLE" > $thefile
+for i in ${files[*]} ; do cat $thedir/$i.md >> $thefile; sep >> $thefile; done
 
-# RELACIONES DE NUBE
+instr=(iniciadores no_afinar seguir_no_seguir parentesis viola finale)
+subtitelize "INSTRUCCIONES" >> $thefile
+for i in ${instr[*]} ; do cat $thedir/$i.md >> $thefile; sep >> $thefile; done
 
-" > ../README.md
-for i in ${files[*]} ; do
-	cat ../md/$i.md >> ../README.md
-	echo "
-	
----
-
-"					>> ../README.md
-done
-
-instrucciones=(iniciadores no_afinar seguir_no_seguir parentesis viola finale)
-echo "
-
-## INSTRUCCIONES
-
-" >> ../README.md
-for i in ${instrucciones[*]} ; do
-	cat ../md/$i.md >> ../README.md
-	echo "
-	
----
-
-"					>> ../README.md
-done
-
-
-
-
-
-indicaciones=(ubicacion iluminacion dinamica_y_duracion partitura pista_electronica final_de_la_obra)
-echo "
-
-## INDICACIONES GENERALES
-
-" >> ../README.md
-for i in ${indicaciones[*]} ; do
-	cat ../md/$i.md >> ../README.md
-	echo "
-	
----
-
-"					>> ../README.md
-done
+indic=(ubicacion iluminacion dinamica_y_duracion partitura pista_electronica final_de_la_obra)
+subtitelize "INDICACIONES GENERALES" >> $thefile
+for i in ${indic[*]} ; do cat $thedir/$i.md >> $thefile; sep >> $thefile; done
 
 cosas=(cosas_para_viola cosas_para_pista cosas_para_todos)
-echo "
+subtitelize "COSAS" >> $thefile
+for i in ${cosas[*]} ; do cat $thedir/$i.md >> $thefile; sep >> $thefile; done
 
-## COSAS
-
-" >> ../README.md
-for i in ${cosas[*]} ; do
-	cat ../md/$i.md >> ../README.md
-	echo "
-	
----
-
-"					>> ../README.md
-done
+}
