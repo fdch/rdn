@@ -1,6 +1,17 @@
 #!/bin/bash
 
-INDEX=index.html
+if [[ $1 ]]; then
+	SOURCE=$1
+else
+	echo "Please provide a Markdown source via argument 1"
+fi
+if [[ $2 ]]; then
+	TARGET=$2
+else
+	echo "Please provide a TARGET FILENAME via argument 1"
+fi
+
+
 TITLE="Relaciones de Nube"
 STITLE="Fede Cámara Halac"
 CMDNAME=make_html_file.sh
@@ -8,7 +19,7 @@ CINTRO="THIS FILE IS PART OF:"
 CAUTO="AUTOMATICALLY GENERATED FROM: 'sh $CMDNAME'"
 EMAIL="FCH226@NYU.EDU"
 DDATE=`date`
-CSS=style.css
+CSS=css/style.css
 META="width=device-width,minimum-scale=0.5,maximum-scale=1.5,user-scalable=yes"
 HINTRO="<!--
 
@@ -21,9 +32,9 @@ HINTRO="<!--
 	CONTACT $EMAIL
 
 -->"
-pandoc -f markdown -t html -o $INDEX $1 
+pandoc -f markdown -t html -o $TARGET $1 
 
-HBODY=`cat $INDEX | sed 's/<p>//g;s/<\/p>//g'`
+HBODY=`cat $TARGET | sed 's/<p>//g;s/<\/p>//g'`
 echo "$HINTRO
 <!DOCTYPE html><html><head><title>"$TITLE" | "$STITLE"</title>
 <meta charset=\"UTF-8\">
@@ -32,8 +43,8 @@ echo "$HINTRO
 <link rel=\"stylesheet\" type=\"text/css\" href=\""$CSS"\"></head>
 <body>
 <main>"$HBODY"</main></body></html>
-" > $INDEX
+" > $TARGET
 
-open $INDEX
+open $TARGET
 
 exit
