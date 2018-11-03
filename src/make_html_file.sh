@@ -32,7 +32,7 @@ HINTRO="<!--
 	CONTACT $EMAIL
 
 -->"
-pandoc -f markdown -t html -o $TARGET $1 
+pandoc --toc -s $SOURCE -f markdown -t html -o $TARGET  
 
 HBODY=`cat $TARGET | sed 's/<p>//g;s/<\/p>//g'`
 echo "$HINTRO

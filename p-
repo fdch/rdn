@@ -63,7 +63,7 @@ makeLine 0
 #==============================================================================
 if [[ $2 ]] ; then
 	echo "update index.html and push"
-	sh make_html_file.sh README.md
+	./src/make_html_file.sh README.md index.html
 fi
 #==============================================================================
 #

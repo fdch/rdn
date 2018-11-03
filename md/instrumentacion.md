@@ -1,4 +1,4 @@
-### INSTRUMENTACIÓN
+## INSTRUMENTACIÓN
 
 -	1 (Un) cuarteto de cuerdas:
 

@@ -1,7 +1,6 @@
 
+
 # RELACIONES DE NUBE
-	
----
 
 
 ## SUGERENCIA
@@ -11,7 +10,7 @@ Estas reglas están destinadas al mayor grado posible de incumplimiento, pero al
 ---
 
 
-### INSTRUMENTACIÓN
+## INSTRUMENTACIÓN
 
 -	1 (Un) cuarteto de cuerdas:
 
@@ -20,6 +19,11 @@ Pueden reemplazarse los instrumentos, siempre y cuando haya alguien en el ensemb
 -	2 (Dos o más) parlantes
 	
 ---
+
+
+
+
+## INSTRUCCIONES
 
 
 ### INICIADORES
@@ -43,6 +47,13 @@ Cada intérprete debe reproducir 9 (nueve) sonidos como **INICIADORES**, que pue
     3.  El orden de las notas *no debe estar preestablecido.* Tampoco debe seguirse el orden de las notas como están escritas en la siguiente partitura:
 
 ![](example/example.png)
+	
+---
+
+
+### NO AFINAR
+
+**Muy importante**: una vez que se comienza a tocar una altura, se debe *mantener* **esa altura**. Nunca ajustar la afinación ni cambiar repentinamente las alturas si la altura no es exacta o no es la deseada. *Si decide hacer glissandi, que sean los más lentos del mundo.*
 	
 ---
 
@@ -105,62 +116,68 @@ Antes de que finalice la cinta (11:00), o si ya terminó, los intérpretes deber
 ---
 
 
-### NO AFINAR
-
-**Muy importante**: una vez que se comienza a tocar una altura, se debe *mantener* **esa altura**. Nunca ajustar la afinación ni cambiar repentinamente las alturas si la altura no es exacta o no es la deseada. *Si decide hacer glissandi, que sean los más lentos del mundo.*
-	
----
 
 
 ## INDICACIONES GENERALES
 
+
+###	UBICACIÓN
+
+-	Los violines 1 y 2 deben colocarse en los dos extremos del escenario, con el violoncello en el centro y en el fondo del escenario. Permanecen sentados.
+
+-	La viola debería poder sentarse detrás de la audiencia, con suficiente espacio para pararse y moverse.
+
+-	Se deben colocar dos altavoces detrás de los violines, y el estéreo debe ser audible.
+
+	
 ---
 
--	VIOLINES Y VIOLONCELLO
 
-Los violines 1 y 2 deben colocarse en los dos extremos del escenario, con el violoncello en el centro y en el fondo del escenario. Permanecen sentados.
-
--	VIOLA
-
-La viola debería poder sentarse detrás de la audiencia, con suficiente espacio para pararse y moverse.
-
--	ALTAVOCES
-
-Se deben colocar dos altavoces detrás de los violines, y el estéreo debe ser audible.
-
--	PISTA ELECTRÓNICA
-
-La pista debe sincronizarse con todos los cronómetros utilizados en la obra, para que todo comience al mismo tiempo.
-
--	ILUMINACIÓN
+###	ILUMINACIÓN
 
 La sala debe permanecer oscura todo el tiempo, excepto los cronómetros que iluminan a los intérpretes. Si los cronómetros no tienen luz, debe haber luces individuales y portátiles que apunten a cada intérprete.
+	
+---
 
--	DINÁMICA
 
-La dinámica global de la obra es **pausada** y **silenciosa**.
+###	DINÁMICA Y DURACIÓN
 
--	DURACIÓN DE LAS *RELACIONES DE NUBE*
+-	La dinámica global de la obra es **pausada** y **silenciosa**.
 
-Las relaciones duran entre 15 y 30 segundos.
+-	Las relaciones duran entre 15 y 30 segundos.
 
--	DURACIÓN DE LA OBRA
+-	La pieza entera debe durar alrededor de 13 minutos.
+	
+---
 
-La pieza entera debe durar alrededor de 13 minutos.
 
--	FINAL DE LA OBRA
-
-Los intérpretes (y no la pista) deben finalizar la obra.
-
--	PARTITURA
+### PARTITURA
 
 Los intérpretes no deben usar una partitura ni ninguna otra ayuda visual que no sea un cronómetro. Deben tratar de recordar qué hacer. Sin embargo, si se olvidan algunas cosas, solo deben seguir tocando.
 	
 ---
 
 
-### COSAS PARA VIOLA
+### PISTA ELECTRÓNICA
 
+La pista debe sincronizarse con todos los cronómetros utilizados en la obra, para que todo comience al mismo tiempo.
+	
+---
+
+
+### FINAL DE LA OBRA
+
+Los intérpretes (y no la pista) deben finalizar la obra.
+	
+---
+
+
+
+
+## COSAS
+
+
+### VIOLA
 
 -	3 (Tres) sillas
 -	1 (Un) vaso de agua
@@ -173,16 +190,16 @@ Los intérpretes no deben usar una partitura ni ninguna otra ayuda visual que no
 ---
 
 
-### COSAS PARA PISTA
+### PISTA
 
-### Opción en tiempo real:
+#### Opción en tiempo real:
 
 -	1 (Un)  instrumentista dedicado a controlar la pista (Ver Anexo)
 -	1 (Una) mezcladora conectada a los dos parlantes.
 -	1 (Una) interfase de audio (USB), conectada a la mezcladora con cables TRS.
 -	1 (Una) computadora con Pure Data, conectada con la interfase via USB.
 
-### Opción en tiempo diferido:
+#### Opción en tiempo diferido:
 
 -	1 (Un)  reproductor de audio conectado a los dos parlantes.
 
@@ -190,7 +207,7 @@ Los intérpretes no deben usar una partitura ni ninguna otra ayuda visual que no
 ---
 
 
-### COSAS PARA INSTRUMENTISTAS
+### INSTRUMENTISTAS
 
 -	Un cronómetro para cada instrumentista (con o sin luz)
 -	Una luz (led) individual y portátil para cada instrumentista
