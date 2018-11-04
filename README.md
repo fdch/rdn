@@ -17,6 +17,15 @@ Estas reglas están destinadas al mayor grado posible de incumplimiento, pero al
 Pueden reemplazarse los instrumentos, siempre y cuando haya alguien en el ensemble que tome el rol de 'viola.'
 
 -	2 (Dos o más) parlantes
+
+	
+---
+
+
+##	DINÁMICA Y DURACIÓN
+
+-	La dinámica global de la obra es **pausada** y **silenciosa**.
+-	La pieza entera debe durar alrededor de 13 minutos.
 	
 ---
 
@@ -73,7 +82,21 @@ Los intérpretes deben utilizar *todas* las siguientes técnicas, combinando de 
 
 Los intérpretes deben utilizar *todas* las siguientes alturas, en esos registros pero en cualquier cuerda:
 
-![](example/example.png)
+#### Violin I
+
+![](example/violini_part.png)
+
+#### Violin II
+
+![](example/violinii_part.png)
+
+#### Viola
+
+![](example/viola_part.png)
+
+#### Cello
+
+![](example/cello_part.png)
 
 1.  Al menos 3 deben tocarse como *armónicos* en cualquier registro.
 2.  Se pueden usar cuerdas dobles al combinar cualquiera de las alturas.
@@ -97,6 +120,7 @@ Una vez que se comienza a tocar una altura, se debe ***mantener esa altura***. N
 
 Los intérpretes deben decidir entre **seguir** o  **no seguir** el sonido, entendiendo a 'sonido' como todo lo que tenga algún efecto acústico en el momento, ya sea de los otros intérpretes, de la pista, del lugar, de los alrededores, la memoria, etc.
 
+**Las relaciones deberían durar entre aproximadamente 15 y 30 segundos**.
 	
 ---
 
@@ -192,10 +216,12 @@ Antes de que finalice la cinta (11:00), o en caso que ya haya finalizado, los in
 ###	UBICACIÓN
 
 -	Los violines 1 y 2 deben colocarse en los dos extremos del escenario, con el violoncello en el centro y en el fondo del escenario. Permanecen sentados.
-
 -	La viola debería poder sentarse detrás de la audiencia, con suficiente espacio para pararse y moverse.
-
 -	Se deben colocar dos altavoces detrás de los violines, y el estéreo debe ser audible.
+
+A continuación puede verse un diagrama de la [ubicación](diagram/stage.png) de los instrumentistas. 
+
+![](diagram/stage.png)
 
 	
 ---
@@ -204,17 +230,6 @@ Antes de que finalice la cinta (11:00), o en caso que ya haya finalizado, los in
 ###	ILUMINACIÓN
 
 La sala debe permanecer oscura todo el tiempo, excepto los cronómetros que iluminan a los intérpretes. Si los cronómetros no tienen luz, debe haber luces individuales y portátiles que apunten a cada intérprete.
-	
----
-
-
-###	DINÁMICA Y DURACIÓN
-
--	La dinámica global de la obra es **pausada** y **silenciosa**.
-
--	Las relaciones duran entre 15 y 30 segundos.
-
--	La pieza entera debe durar alrededor de 13 minutos.
 	
 ---
 

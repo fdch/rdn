@@ -17,7 +17,7 @@ function make_readme_file() {
 	fi
 
 
-files=(sugerencia instrumentacion pista_electronica circuitura)
+files=(sugerencia instrumentacion dinamica_y_duracion pista_electronica circuitura)
 titelize "$TITLE" > $thefile
 for i in ${files[*]} ; do cat $thedir/$i.md >> $thefile; sep >> $thefile; done
 
@@ -36,7 +36,7 @@ for i in ${instr[*]} ; do
 	sep >> $thefile
 done
 
-indic=(ubicacion iluminacion dinamica_y_duracion partitura)
+indic=(ubicacion iluminacion partitura)
 subtitelize "INDICACIONES GENERALES" >> $thefile
 for i in ${indic[*]} ; do cat $thedir/$i.md >> $thefile; sep >> $thefile; done
 

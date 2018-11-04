@@ -2,7 +2,21 @@
 
 Los intérpretes deben utilizar *todas* las siguientes alturas, en esos registros pero en cualquier cuerda:
 
-![](example/example.png)
+#### Violin I
+
+![](example/violini_part.png)
+
+#### Violin II
+
+![](example/violinii_part.png)
+
+#### Viola
+
+![](example/viola_part.png)
+
+#### Cello
+
+![](example/cello_part.png)
 
 1.  Al menos 3 deben tocarse como *armónicos* en cualquier registro.
 2.  Se pueden usar cuerdas dobles al combinar cualquiera de las alturas.
