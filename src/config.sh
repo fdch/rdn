@@ -2,6 +2,9 @@
 
 TITLE="RELACIONES DE NUBE"
 STITLE="Fede Cámara Halac"
+
+ALLPARTS=(violini violinii viola cello)
+
 CMDNAME=make_html_file.sh
 CINTRO="THIS FILE IS PART OF:"
 CAUTO="AUTOMATICALLY GENERATED FROM: 'sh $CMDNAME'"
@@ -31,7 +34,7 @@ function sep() {
 function titelize() {
 	echo "
 
-# $1
+# `echo $1 | awk '{print toupper($0)}'`
 
 " 
 }

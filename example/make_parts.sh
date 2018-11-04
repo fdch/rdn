@@ -1,6 +1,8 @@
 #!/bin/bash
 
-ALLPARTS=(violini violinii viola cello)
+if [ -z $CONFIG ]; then source ../src/config.sh ; fi
+
+
 WD=6
 HI=1
 

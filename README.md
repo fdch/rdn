@@ -32,7 +32,7 @@ Pueden reemplazarse los instrumentos, siempre y cuando haya alguien en el ensemb
 
 ## PISTA ELECTRÓNICA
 
-La pista debe sincronizarse con todos los cronómetros utilizados en la obra, para que todo comience al mismo tiempo.
+Cada instrumentista tiene su celular y da inicio a la reproducción del archivo desde su [parte individual](#partes-individuales). Los siguientes audios están incluidos en cada uno de las pistas:
 
 -	[rec-0-1](puredata/audio/rec-0-1.mp3)
 -	[rec-0-2](puredata/audio/rec-0-2.mp3)
@@ -234,9 +234,15 @@ La sala debe permanecer oscura todo el tiempo, excepto los cronómetros que ilum
 ---
 
 
-### PARTITURA
+### PARTES INDIVIDUALES
 
-Los intérpretes no deben usar una partitura ni ninguna otra ayuda visual que no sea un cronómetro. Deben tratar de recordar qué hacer. Sin embargo, si se olvidan algunas cosas, solo deben seguir tocando.
+#### [Violin I](I/index.html)
+
+#### [Violin II](II/index.html)
+
+#### [Viola](III/index.html)
+
+#### [Cello](IV/index.html)
 	
 ---
 
@@ -264,16 +270,16 @@ Espacializar los siguientes elementos cerca o debajo de algunas de sus sillas:
 
 ### PARA LA PISTA
 
+#### Opción en tiempo diferido:
+
+-	4 (Cuatro) celulares con conexión a internet para descargar la partitura y el audio. Una vez descargados, ya no es necesaria la conexión a internet.
+
 #### Opción en tiempo real:
 
 -	1 (Un)  instrumentista dedicado a controlar la pista (Ver Anexo)
 -	1 (Una) mezcladora conectada a los dos parlantes.
 -	1 (Una) interfase de audio (USB), conectada a la mezcladora con cables TRS.
 -	1 (Una) computadora con Pure Data, conectada con la interfase via USB.
-
-#### Opción en tiempo diferido:
-
--	1 (Un)  reproductor de audio conectado a los dos parlantes.
 
 	
 ---

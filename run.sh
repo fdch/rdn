@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 TGTMD=README.md
 SRCMD=./md
 IHTML=index.html
@@ -21,9 +20,13 @@ cd src
 make_audio_divs
 cd ..
 
-cd example
-source ./make_parts.sh
-compile_all_parts
-cd ..
+
+if [[ $1 ]] ; then
+	cd example
+	source ./make_parts.sh
+	compile_all_parts
+	cd ..
+fi
+
 
 open $IHTML
