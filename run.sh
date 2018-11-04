@@ -21,7 +21,7 @@ cd src
 make_audio_divs
 cd ..
 
-exit
+# exit
 
 # reformat_html $TGTMD $IHTML
 

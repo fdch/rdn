@@ -17,7 +17,7 @@ function make_readme_file() {
 	fi
 
 
-files=(sugerencia instrumentacion pista_electronica)
+files=(sugerencia instrumentacion pista_electronica circuitura)
 titelize "$TITLE" > $thefile
 for i in ${files[*]} ; do cat $thedir/$i.md >> $thefile; sep >> $thefile; done
 

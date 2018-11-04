@@ -33,6 +33,15 @@ La pista debe sincronizarse con todos los cronómetros utilizados en la obra, pa
 ---
 
 
+## DIAGRAMA
+
+A continuación puede verse un [diagrama](diagram/main.png) de la obra. 
+
+![](diagram/main.png)
+	
+---
+
+
 
 
 ## INICIADORES
@@ -118,8 +127,8 @@ La única excepción de esta regla es que no pueden usarse las alturas utilizada
 
 La acción de **no seguir el sonido** puede significar:
 
-1.  Continuar haciendo lo que se esté haciendo.
-3.  Casi imperceptiblemente detener lo que se esté haciendo y luego permanecer en silencio hasta realizar algún futuro [iniciador](#iniciadores) o [relación](#relaciones).
+1.  **Continuar**: continuar  haciendo lo que se esté haciendo.
+3.  **Silencio**: casi imperceptiblemente detener lo que se esté haciendo y luego permanecer en silencio hasta realizar algún futuro [iniciador](#iniciadores) o [relación](#relaciones).
 
 
 	
