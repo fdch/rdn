@@ -9,7 +9,13 @@
 \include "violini.ly"
 
 \score {
-	
-ew Staff iolini
+	\new Staff \violini
 	\layout { 
-     
+     \context { 
+       \Staff 
+       	\override TimeSignature #'stencil = #point-stencil
+       	} 
+ 	  }
+}
+\version "2.19.56"
+

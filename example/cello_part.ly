@@ -9,5 +9,13 @@
 \include "cello.ly"
 
 \score {
-	
-ew Staff 
+	\new Staff \cello
+	\layout { 
+     \context { 
+       \Staff 
+       	\override TimeSignature #'stencil = #point-stencil
+       	} 
+ 	  }
+}
+\version "2.19.56"
+

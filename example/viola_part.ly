@@ -9,7 +9,13 @@
 \include "viola.ly"
 
 \score {
-	
-ew Staff iola
+	\new Staff \viola
 	\layout { 
-     
+     \context { 
+       \Staff 
+       	\override TimeSignature #'stencil = #point-stencil
+       	} 
+ 	  }
+}
+\version "2.19.56"
+

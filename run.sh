@@ -9,7 +9,7 @@ source ./src/config.sh
 source ./src/make_readme_file.sh
 source ./src/reformat_html.sh
 source ./src/make_audio_html.sh
-source ./example/make_parts.sh
+
 
 
 
@@ -22,6 +22,7 @@ make_audio_divs
 cd ..
 
 cd example
+source ./make_parts.sh
 compile_all_parts
 cd ..
 
