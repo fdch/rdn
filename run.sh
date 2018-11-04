@@ -15,7 +15,7 @@ source ./src/make_audio_html.sh
 
 make_readme_file $TGTMD $SRCMD
 
-pandoc --toc --css css/pandoc.css -s $TGTMD -f markdown -t html5 -o $IHTML 
+pandoc --toc --toc-depth=4 --css css/pandoc.css -s $TGTMD -f markdown -t html5 -o $IHTML 
 
 cd src
 make_audio_divs
