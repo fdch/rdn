@@ -17,15 +17,26 @@ function make_readme_file() {
 	fi
 
 
-files=(sugerencia instrumentacion)
+files=(sugerencia instrumentacion pista_electronica)
 titelize "$TITLE" > $thefile
 for i in ${files[*]} ; do cat $thedir/$i.md >> $thefile; sep >> $thefile; done
 
-instr=(iniciadores no_afinar seguir_no_seguir parentesis viola finale)
-subtitelize "INSTRUCCIONES" >> $thefile
-for i in ${instr[*]} ; do cat $thedir/$i.md >> $thefile; sep >> $thefile; done
+inici=(iniciadores tecnicas alturas no_afinar)
+subtitelize "INICIADORES" >> $thefile
+for i in ${inici[*]} ; do cat $thedir/$i.md >> $thefile; sep >> $thefile; done
 
-indic=(ubicacion iluminacion dinamica_y_duracion partitura pista_electronica final_de_la_obra)
+relac=(relaciones seguir no_seguir)
+subtitelize "RELACIONES"	>>	$thefile
+for i in ${relac[*]} ; do cat $thedir/$i.md >> $thefile; sep >> $thefile; done
+
+instr=(parentesis viola finale)
+for i in ${instr[*]} ; do 
+	subtitelize $i >> $thefile
+	cat $thedir/$i.md >> $thefile
+	sep >> $thefile
+done
+
+indic=(ubicacion iluminacion dinamica_y_duracion partitura)
 subtitelize "INDICACIONES GENERALES" >> $thefile
 for i in ${indic[*]} ; do cat $thedir/$i.md >> $thefile; sep >> $thefile; done
 

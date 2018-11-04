@@ -7,9 +7,22 @@ IHTML=index.html
 
 source ./src/config.sh
 source ./src/make_readme_file.sh
-source ./src/make_html_file.sh
+source ./src/reformat_html.sh
+source ./src/make_audio_html.sh
+
+
+
 
 make_readme_file $TGTMD $SRCMD
-make_html_file $TGTMD $IHTML
+
+pandoc --toc --css css/pandoc.css -s $TGTMD -f markdown -t html5 -o $IHTML 
+
+cd src
+make_audio_divs
+cd ..
+
+exit
+
+# reformat_html $TGTMD $IHTML
 
 open $IHTML

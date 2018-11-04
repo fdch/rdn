@@ -38,9 +38,26 @@ function titelize() {
 function subtitelize() {
 	echo "
 
-## $1
+## `echo $1 | awk '{print toupper($0)}'`
 
 " 
 }
+
+
+function tg() {
+	echo "
+<$1 id=$3>$2</$1>
+"
+}
+function audioTag() {
+	echo "
+<audio controls>
+<source src=\"$1\" type=\"audio/mpeg\">
+Your browser does not support the audio element.
+</audio> 
+"
+}
+
+
 CONFIG=1
 
