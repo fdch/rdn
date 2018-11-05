@@ -191,7 +191,7 @@ Debe tocarse un *paréntesis* una vez pasada la mitad de la obra. A modo de guí
     4.  Debe sonar una bolsa de plástico durante 10-25 segundos (8:00)
 
 3.  **Solo una vez**, hacer una acción de su elección para seguir algún sonido de la pista.
-4.  Estas acciones pueden reemplazar cualquiera de los [iniciadores](https://fdch.github.io/rdn/index.html#iniciadores), *pero no el [paréntesis](https://fdch.github.io/rdn/index.html#paréntesis)*.
+4.  Estas acciones pueden reemplazar cualquiera de los [iniciadores](https://fdch.github.io/rdn/index.html#iniciadores), *pero no el [parentesis](https://fdch.github.io/rdn/index.html#parentesis)*.
 	
 ---
 
@@ -201,7 +201,7 @@ Debe tocarse un *paréntesis* una vez pasada la mitad de la obra. A modo de guí
 ## FINALE
 
 
-El final es una transposición del [PARÉNTESIS](https://fdch.github.io/rdn/index.html#parentesis).
+El final es una transposición del [PARENTESIS](https://fdch.github.io/rdn/index.html#parentesis).
 
 Antes de que finalice la cinta (11:00), o en caso que ya haya finalizado, los intérpretes deberían iniciar el final. El final consiste en tocar lo mismo que en paréntesis pero transpuesto a cualquier intervalo, y con cualquier técnica. La dinámica debe seguir siendo ***pppp***. La única condición es que cualquier intérprete *menos la viola* debe iniciar la primera nota; el resto debe continuar el paréntesis de manera transpuesta.
 

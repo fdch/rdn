@@ -6,4 +6,4 @@
     4.  Debe sonar una bolsa de plástico durante 10-25 segundos (8:00)
 
 3.  **Solo una vez**, hacer una acción de su elección para seguir algún sonido de la pista.
-4.  Estas acciones pueden reemplazar cualquiera de los [iniciadores](https://fdch.github.io/rdn/index.html#iniciadores), *pero no el [paréntesis](https://fdch.github.io/rdn/index.html#paréntesis)*.
+4.  Estas acciones pueden reemplazar cualquiera de los [iniciadores](https://fdch.github.io/rdn/index.html#iniciadores), *pero no el [parentesis](https://fdch.github.io/rdn/index.html#parentesis)*.
