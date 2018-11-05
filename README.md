@@ -32,21 +32,21 @@ Pueden reemplazarse los instrumentos, siempre y cuando haya alguien en el ensemb
 
 ## PISTA ELECTRÓNICA
 
-Cada instrumentista tiene su celular y da inicio a la reproducción del archivo desde su [parte individual](#partes-individuales). Los siguientes audios están incluidos en cada uno de las pistas:
+Cada instrumentista tiene su celular y da inicio a la reproducción del archivo desde su [parte individual](https://fdch.github.io/rdn/index.html#partes-individuales). Los siguientes audios están incluidos en cada uno de las pistas:
 
--	[rec-0-1](puredata/audio/rec-0-1.mp3)
--	[rec-0-2](puredata/audio/rec-0-2.mp3)
--	[rec-0-3](puredata/audio/rec-0-3.mp3)
--	[rec-0-4](puredata/audio/rec-0-4.mp3)
+-	[rec-0-1](https://fdch.github.io/rdn/puredata/audio/rec-0-1.mp3)
+-	[rec-0-2](https://fdch.github.io/rdn/puredata/audio/rec-0-2.mp3)
+-	[rec-0-3](https://fdch.github.io/rdn/puredata/audio/rec-0-3.mp3)
+-	[rec-0-4](https://fdch.github.io/rdn/puredata/audio/rec-0-4.mp3)
 	
 ---
 
 
 ## DIAGRAMA
 
-A continuación puede verse un [diagrama](diagram/main.png) de la obra. 
+A continuación puede verse un [diagrama](https://fdch.github.io/rdn/diagram/main.png) de la obra. 
 
-![](diagram/main.png)
+![](https://fdch.github.io/rdn/diagram/main.png)
 	
 ---
 
@@ -56,7 +56,7 @@ A continuación puede verse un [diagrama](diagram/main.png) de la obra.
 ## INICIADORES
 
 
-Cada intérprete debe reproducir 9 (nueve) sonidos como [INICIADORES](#iniciadores), que pueden o no causar las [RELACIONES](#relaciones).
+Cada intérprete debe reproducir 9 (nueve) sonidos como [INICIADORES](https://fdch.github.io/rdn/index.html#iniciadores), que pueden o no causar las [RELACIONES](https://fdch.github.io/rdn/index.html#relaciones).
 	
 ---
 
@@ -84,19 +84,19 @@ Los intérpretes deben utilizar *todas* las siguientes alturas, en esos registro
 
 #### Violin I
 
-![](example/violini_part.png)
+![](https://fdch.github.io/rdn/example/violini_part.png)
 
 #### Violin II
 
-![](example/violinii_part.png)
+![](https://fdch.github.io/rdn/example/violinii_part.png)
 
 #### Viola
 
-![](example/viola_part.png)
+![](https://fdch.github.io/rdn/example/viola_part.png)
 
 #### Cello
 
-![](example/cello_part.png)
+![](https://fdch.github.io/rdn/example/cello_part.png)
 
 1.  Al menos 3 deben tocarse como *armónicos* en cualquier registro.
 2.  Se pueden usar cuerdas dobles al combinar cualquiera de las alturas.
@@ -137,7 +137,7 @@ La acción de **seguir el sonido** debe realizarse como una forma (sonora o no) 
 
 #### Excepción
 
-La única excepción de esta regla es que no pueden usarse las alturas utilizadas como [iniciadoras](#iniciadores), porque la resonancia debe ser diferente:
+La única excepción de esta regla es que no pueden usarse las alturas utilizadas como [iniciadoras](https://fdch.github.io/rdn/index.html#iniciadores), porque la resonancia debe ser diferente:
 
 *Por ejemplo, si un intérprete toca un iniciador en Si bemol, entonces no puede sonar ni otro Si bemol, ni ninguna de las alturas escritas.*
 
@@ -152,7 +152,7 @@ La única excepción de esta regla es que no pueden usarse las alturas utilizada
 La acción de **no seguir el sonido** puede significar:
 
 1.  **Continuar**: continuar  haciendo lo que se esté haciendo.
-3.  **Silencio**: casi imperceptiblemente detener lo que se esté haciendo y luego permanecer en silencio hasta realizar algún futuro [iniciador](#iniciadores) o [relación](#relaciones).
+3.  **Silencio**: casi imperceptiblemente detener lo que se esté haciendo y luego permanecer en silencio hasta realizar algún futuro [iniciador](https://fdch.github.io/rdn/index.html#iniciadores) o [relación](https://fdch.github.io/rdn/index.html#relaciones).
 
 
 	
@@ -164,9 +164,9 @@ La acción de **no seguir el sonido** puede significar:
 ## PARENTESIS
 
 
-Debe tocarse un *paréntesis* una vez pasada la mitad de la obra. A modo de guía, puede verse la siguiente [partitura](example/parentesis/parentesis.png):
+Debe tocarse un *paréntesis* una vez pasada la mitad de la obra. A modo de guía, puede verse la siguiente [partitura](https://fdch.github.io/rdn/example/parentesis/parentesis.png):
 
-![](example/parentesis/parentesis.png)
+![](https://fdch.github.io/rdn/example/parentesis/parentesis.png)
 
 1.  La **viola** debe tocar el **Re** central ***pppp***, sobre la cuerda de Sol, y con una duración de 30-90 segundos.
 
@@ -183,7 +183,7 @@ Debe tocarse un *paréntesis* una vez pasada la mitad de la obra. A modo de guí
 ## VIOLA
 
 
-1.  Moverse arbitrariamente entre las tres sillas (Ver [Cosas para Viola](#para-viola)).
+1.  Moverse arbitrariamente entre las tres sillas (Ver [Cosas para Viola](https://fdch.github.io/rdn/index.html#para-viola)).
 2.  Puede realizar cualquiera de las siguientes acciones en cualquier momento, pero *también* se deben realizar en los momentos indicados. Deben realizarse muy lentamente y en el rango dinámico más bajo posible:
     1.  Se debe llenar un vaso de agua hasta la mitad (3:15)
     2.  Se debe abrir una lata de gaseosa (6:43)
@@ -191,7 +191,7 @@ Debe tocarse un *paréntesis* una vez pasada la mitad de la obra. A modo de guí
     4.  Debe sonar una bolsa de plástico durante 10-25 segundos (8:00)
 
 3.  **Solo una vez**, hacer una acción de su elección para seguir algún sonido de la pista.
-4.  Estas acciones pueden reemplazar cualquiera de los [iniciadores](#iniciadores), *pero no el [paréntesis](#paréntesis)*.
+4.  Estas acciones pueden reemplazar cualquiera de los [iniciadores](https://fdch.github.io/rdn/index.html#iniciadores), *pero no el [paréntesis](https://fdch.github.io/rdn/index.html#paréntesis)*.
 	
 ---
 
@@ -201,7 +201,7 @@ Debe tocarse un *paréntesis* una vez pasada la mitad de la obra. A modo de guí
 ## FINALE
 
 
-El final es una transposición del [PARÉNTESIS](#paréntesis).
+El final es una transposición del [PARÉNTESIS](https://fdch.github.io/rdn/index.html#parentesis).
 
 Antes de que finalice la cinta (11:00), o en caso que ya haya finalizado, los intérpretes deberían iniciar el final. El final consiste en tocar lo mismo que en paréntesis pero transpuesto a cualquier intervalo, y con cualquier técnica. La dinámica debe seguir siendo ***pppp***. La única condición es que cualquier intérprete *menos la viola* debe iniciar la primera nota; el resto debe continuar el paréntesis de manera transpuesta.
 
@@ -221,9 +221,9 @@ Antes de que finalice la cinta (11:00), o en caso que ya haya finalizado, los in
 -	La viola debería poder sentarse detrás de la audiencia, con suficiente espacio para pararse y moverse.
 -	Se deben colocar dos altavoces detrás de los violines, y el estéreo debe ser audible.
 
-A continuación puede verse un diagrama de la [ubicación](diagram/stage.png) de los instrumentistas. 
+A continuación puede verse un diagrama de la [ubicación](https://fdch.github.io/rdn/diagram/stage.png) de los instrumentistas. 
 
-![](diagram/stage.png)
+![](https://fdch.github.io/rdn/diagram/stage.png)
 
 	
 ---
@@ -238,13 +238,13 @@ La sala debe permanecer oscura todo el tiempo, excepto los cronómetros que ilum
 
 ### PARTES INDIVIDUALES
 
-#### [Violin I](I/index.html)
+#### [Violin I](https://fdch.github.io/rdn/I/index.html)
 
-#### [Violin II](II/index.html)
+#### [Violin II](https://fdch.github.io/rdn/II/index.html)
 
-#### [Viola](III/index.html)
+#### [Viola](https://fdch.github.io/rdn/III/index.html)
 
-#### [Cello](IV/index.html)
+#### [Cello](https://fdch.github.io/rdn/IV/index.html)
 	
 ---
 

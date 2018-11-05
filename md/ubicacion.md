@@ -4,6 +4,6 @@
 -	La viola debería poder sentarse detrás de la audiencia, con suficiente espacio para pararse y moverse.
 -	Se deben colocar dos altavoces detrás de los violines, y el estéreo debe ser audible.
 
-A continuación puede verse un diagrama de la [ubicación](diagram/stage.png) de los instrumentistas. 
+A continuación puede verse un diagrama de la [ubicación](https://fdch.github.io/rdn/diagram/stage.png) de los instrumentistas. 
 
-![](diagram/stage.png)
+![](https://fdch.github.io/rdn/diagram/stage.png)

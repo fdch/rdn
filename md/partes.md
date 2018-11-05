@@ -1,9 +1,9 @@
 ### PARTES INDIVIDUALES
 
-#### [Violin I](I/index.html)
+#### [Violin I](https://fdch.github.io/rdn/I/index.html)
 
-#### [Violin II](II/index.html)
+#### [Violin II](https://fdch.github.io/rdn/II/index.html)
 
-#### [Viola](III/index.html)
+#### [Viola](https://fdch.github.io/rdn/III/index.html)
 
-#### [Cello](IV/index.html)
+#### [Cello](https://fdch.github.io/rdn/IV/index.html)

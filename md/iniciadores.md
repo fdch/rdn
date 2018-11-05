@@ -1,1 +1,1 @@
-Cada intérprete debe reproducir 9 (nueve) sonidos como [INICIADORES](#iniciadores), que pueden o no causar las [RELACIONES](#relaciones).
+Cada intérprete debe reproducir 9 (nueve) sonidos como [INICIADORES](https://fdch.github.io/rdn/index.html#iniciadores), que pueden o no causar las [RELACIONES](https://fdch.github.io/rdn/index.html#relaciones).
