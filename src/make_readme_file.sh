@@ -56,7 +56,7 @@ ext=\_part.png
 fn=${pI[0]}/index.md
 hn=${pI[0]}/index.html
 titelize "${ALLPARTS[0]}" > $fn
-echo "![](../example/${pI[1]}$ext)" >> $fn 
+echo "![](https://fdch.github.io/rdn/example/${pI[1]}$ext)" >> $fn 
 sep >> $fn
 cat "./md/tecnicas.md" >> $fn
 sep >> $fn
@@ -65,7 +65,7 @@ cat "./md/parentesis.md" >> $fn
 sep >> $fn
 pandoc -f markdown -t html5 -o $hn $fn
 FIRST=`cat $hn`
-tg div "`audioTag "../puredata/audio/rec-0-1.mp3"`" "rec-0-1" > $hn
+tg div "`audioTag "https://fdch.github.io/rdn/puredata/audio/rec-0-1.mp3"`" "rec-0-1" > $hn
 echo "$FIRST" >> $hn
 reformat_html $hn $hn
 rm $fn
@@ -73,7 +73,7 @@ rm $fn
 fn=${pII[0]}/index.md
 hn=${pII[0]}/index.html
 titelize "${ALLPARTS[1]}" > $fn
-echo "![](../example/${pII[1]}$ext)" >> $fn 
+echo "![](https://fdch.github.io/rdn/example/${pII[1]}$ext)" >> $fn 
 sep >> $fn
 cat "./md/tecnicas.md" >> $fn
 sep >> $fn
@@ -82,7 +82,7 @@ cat "./md/parentesis.md" >> $fn
 sep >> $fn
 pandoc -f markdown -t html5 -o $hn $fn
 FIRST=`cat $hn`
-tg div "`audioTag "../puredata/audio/rec-0-2.mp3"`" "rec-0-2" > $hn
+tg div "`audioTag "https://fdch.github.io/rdn/puredata/audio/rec-0-2.mp3"`" "rec-0-2" > $hn
 echo "$FIRST" >> $hn
 reformat_html $hn $hn
 rm $fn
@@ -90,7 +90,7 @@ rm $fn
 fn=${pIII[0]}/index.md
 hn=${pIII[0]}/index.html
 titelize "${ALLPARTS[2]}" > $fn
-echo "![](../example/${pIII[1]}$ext)" >> $fn 
+echo "![](https://fdch.github.io/rdn/example/${pIII[1]}$ext)" >> $fn 
 sep >> $fn
 cat "./md/tecnicas.md" >> $fn
 sep >> $fn
@@ -102,7 +102,7 @@ cat "./md/parentesis.md" >> $fn
 sep >> $fn
 pandoc -f markdown -t html5 -o $hn $fn
 FIRST=`cat $hn`
-tg div "`audioTag "../puredata/audio/rec-0-3.mp3"`" "rec-0-3" > $hn
+tg div "`audioTag "https://fdch.github.io/rdn/puredata/audio/rec-0-3.mp3"`" "rec-0-3" > $hn
 echo "$FIRST" >> $hn
 reformat_html $hn $hn
 rm $fn
@@ -110,7 +110,7 @@ rm $fn
 fn=${pIV[0]}/index.md
 hn=${pIV[0]}/index.html
 titelize "${ALLPARTS[3]}" > $fn
-echo "![](../example/${pIV[1]}$ext)" >> $fn 
+echo "![](https://fdch.github.io/rdn/example/${pIV[1]}$ext)" >> $fn 
 sep >> $fn
 cat "./md/tecnicas.md" >> $fn
 sep >> $fn
@@ -119,7 +119,7 @@ cat "./md/parentesis.md" >> $fn
 sep >> $fn
 pandoc -f markdown -t html5 -o $hn $fn
 FIRST=`cat $hn`
-tg div "`audioTag "../puredata/audio/rec-0-4.mp3"`" "rec-0-4" > $hn
+tg div "`audioTag "https://fdch.github.io/rdn/puredata/audio/rec-0-4.mp3"`" "rec-0-4" > $hn
 echo "$FIRST" >> $hn
 reformat_html $hn $hn
 rm $fn
