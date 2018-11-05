@@ -1,4 +1,6 @@
-Debe tocarse un *paréntesis* una vez pasada la mitad de la obra.
+Debe tocarse un *paréntesis* una vez pasada la mitad de la obra. A modo de guía, puede verse la siguiente [partitura](example/parentesis/parentesis.png):
+
+![](example/parentesis/parentesis.png)
 
 1.  La **viola** debe tocar el **Re** central ***pppp***, sobre la cuerda de Sol, y con una duración de 30-90 segundos.
 
